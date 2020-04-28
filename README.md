@@ -11,7 +11,7 @@ node build.js xxx
 
 ## 部署
 
-去 gate 机器， /data/www/gm-libs，npm run deploy
+去 gate 机器， /data/www/gm-libs， git pull，npm run deploy
 
 # 初始化
 
