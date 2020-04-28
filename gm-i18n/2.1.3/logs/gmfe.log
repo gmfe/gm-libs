@@ -1,0 +1,348 @@
+[36m[2018-06-13T14:33:57.829] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-06-13T14:34:13.076] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v1.0.1
+[32m[2018-06-13T14:34:13.077] [INFO] default - [39mstart to publish gm-i18n ...
+[32m[2018-06-13T14:34:25.488] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-i18n;】 + gm-i18n@1.0.1
+Start sync ["gm-i18n"].
+sync gm-i18n, PUT http://registry.npm.taobao.org/gm-i18n/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-i18n#logid=1635466
+[2018-06-13 14:34:23] user: anonymous, sync gm-i18n worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-06-13 14:34:23] ----------------- Syncing gm-i18n -------------------
+[2018-06-13 14:34:23] [c#0] [error] [gm-i18n] get package(https://r.cnpmjs.org/gm-i18n) error: package not exists, status: 404
+[2018-06-13 14:34:23] ----------------- Synced gm-i18n success -------------------
+[2018-06-13 14:34:23] [done] Sync gm-i18n package finished, 1 success, 0 fail
+Success: [ gm-i18n ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-i18n"], failed: []
+[32m[2018-06-13T14:34:25.488] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-i18n 手动触发更新。
+[36m[2018-06-13T14:57:34.971] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-06-13T14:57:47.614] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v1.0.2
+[32m[2018-06-13T14:57:47.615] [INFO] default - [39mstart to publish gm-i18n ...
+[32m[2018-06-13T14:57:57.379] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-i18n;】 + gm-i18n@1.0.2
+Start sync ["gm-i18n"].
+sync gm-i18n, PUT http://registry.npm.taobao.org/gm-i18n/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-i18n#logid=1635881
+[2018-06-13 14:57:55] user: anonymous, sync gm-i18n worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-06-13 14:57:55] ----------------- Syncing gm-i18n -------------------
+[2018-06-13 14:57:55] [c#0] [gm-i18n] package(https://r.cnpmjs.org/gm-i18n) status: 200, dist-tags: {"latest":"1.0.1"}, time.modified: 2018-06-13T06:34:29.000Z, unpublished: null, start...
+[2018-06-13 14:57:55]   [gm-i18n] found 0 missing star users
+[2018-06-13 14:57:55]   [gm-i18n] all versions are exists
+[2018-06-13 14:57:55]   [gm-i18n] no versions need to deleted
+[2018-06-13 14:57:55]   [gm-i18n] all 1 npm users exists
+[2018-06-13 14:57:55] [c#0] [gm-i18n] synced success, 0 versions: 
+[2018-06-13 14:57:55] ----------------- Synced gm-i18n success -------------------
+[2018-06-13 14:57:55] [done] Sync gm-i18n package finished, 1 success, 0 fail
+Success: [ gm-i18n ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-i18n"], failed: []
+[32m[2018-06-13T14:57:57.380] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-i18n 手动触发更新。
+[36m[2018-06-20T15:18:48.126] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-06-20T15:19:03.270] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v1.0.3
+[32m[2018-06-20T15:19:03.271] [INFO] default - [39mstart to publish gm-i18n ...
+[32m[2018-06-20T15:19:13.851] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-i18n;】 + gm-i18n@1.0.3
+Start sync ["gm-i18n"].
+sync gm-i18n, PUT http://registry.npm.taobao.org/gm-i18n/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-i18n#logid=1768031
+[2018-06-20 15:19:11] user: anonymous, sync gm-i18n worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-06-20 15:19:11] ----------------- Syncing gm-i18n -------------------
+[2018-06-20 15:19:11] [c#0] [gm-i18n] package(https://r.cnpmjs.org/gm-i18n) status: 200, dist-tags: {"latest":"1.0.2"}, time.modified: 2018-06-13T06:57:59.000Z, unpublished: null, start...
+[2018-06-20 15:19:12]   [gm-i18n] found 0 missing star users
+[2018-06-20 15:19:12]   [gm-i18n] all versions are exists
+[2018-06-20 15:19:12]   [gm-i18n] no versions need to deleted
+[2018-06-20 15:19:12]   [gm-i18n] all 1 npm users exists
+[2018-06-20 15:19:12] [c#0] [gm-i18n] synced success, 0 versions: 
+[2018-06-20 15:19:12] ----------------- Synced gm-i18n success -------------------
+[2018-06-20 15:19:12] [done] Sync gm-i18n package finished, 1 success, 0 fail
+Success: [ gm-i18n ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-i18n"], failed: []
+[32m[2018-06-20T15:19:13.851] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-i18n 手动触发更新。
+[36m[2018-06-27T11:32:45.815] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-06-27T11:32:47.958] [INFO] default - [39mnpm account is not gmfe
+[36m[2018-06-27T11:33:05.284] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-06-27T11:33:18.126] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v1.0.4
+[32m[2018-06-27T11:33:18.127] [INFO] default - [39mstart to publish gm-i18n ...
+[32m[2018-06-27T11:33:26.530] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-i18n;】 + gm-i18n@1.0.4
+Start sync ["gm-i18n"].
+sync gm-i18n, PUT http://registry.npm.taobao.org/gm-i18n/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-i18n#logid=1927907
+[2018-06-27 11:33:24] user: anonymous, sync gm-i18n worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-06-27 11:33:24] ----------------- Syncing gm-i18n -------------------
+[2018-06-27 11:33:24] [c#0] [gm-i18n] package(https://r.cnpmjs.org/gm-i18n) status: 200, dist-tags: {"latest":"1.0.3"}, time.modified: 2018-06-20T07:19:18.000Z, unpublished: null, start...
+[2018-06-27 11:33:24]   [gm-i18n] found 0 missing star users
+[2018-06-27 11:33:24]   [gm-i18n] all versions are exists
+[2018-06-27 11:33:24]   [gm-i18n] no versions need to deleted
+[2018-06-27 11:33:24]   [gm-i18n] all 1 npm users exists
+[2018-06-27 11:33:24] [c#0] [gm-i18n] synced success, 0 versions: 
+[2018-06-27 11:33:24] ----------------- Synced gm-i18n success -------------------
+[2018-06-27 11:33:24] [done] Sync gm-i18n package finished, 1 success, 0 fail
+Success: [ gm-i18n ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-i18n"], failed: []
+[32m[2018-06-27T11:33:26.530] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-i18n 手动触发更新。
+[36m[2018-06-28T11:08:51.383] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'minor',
+  add: 'minor',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-06-28T11:09:03.470] [INFO] log2file - [39m【rm -rf package-lock.json; npm version minor; git push origin master:master;】 v1.1.0
+[32m[2018-06-28T11:09:03.471] [INFO] default - [39mstart to publish gm-i18n ...
+[32m[2018-06-28T11:09:21.540] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-i18n;】 + gm-i18n@1.1.0
+Start sync ["gm-i18n"].
+sync gm-i18n, PUT http://registry.npm.taobao.org/gm-i18n/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-i18n#logid=1949675
+[2018-06-28 11:09:10] user: anonymous, sync gm-i18n worker start, 1 concurrency, nodeps: false, publish: false
+[2018-06-28 11:09:11] ----------------- Syncing upstream https://r.cnpmjs.org/gm-i18n/sync/log/3555242 -------------------
+[2018-06-28 11:09:11] [2018-06-28 11:09:11] user: anonymous, sync gm-i18n worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-06-28 11:09:11] ----------------- Syncing gm-i18n -------------------
+[2018-06-28 11:09:14] [2018-06-28 11:09:12] [c#0] [gm-i18n] official registry({"latest":"1.1.0"}, "2018-06-28T03:09:09.475Z"), replicate({"latest":"1.1.0"}, "2018-06-28T03:09:09.475Z")
+[2018-06-28 11:09:12] [c#0] [gm-i18n] package(https://replicate.npmjs.com/gm-i18n) status: 200, dist-tags: {"latest":"1.1.0"}, time.modified: 2018-06-28T03:09:09.475Z, unpublished: null, start...
+[2018-06-28 11:09:13]   [gm-i18n] found 0 missing star users
+[2018-06-28 11:09:13]   [gm-i18n] 1 versions need to sync
+[2018-06-28 11:09:13]     [gm-i18n:0] syncing, delay: 6788 ms, version: 1.1.0, dist: {"integrity":"sha512-L3zBK2tJUvGiq6fDifZWxiwffZbxgv5u+BkGadvRMhBPJO9XjMBybiXVpAnUcgAmtt549VI0dZroUjr3h650Lg==","shasum":"4a0fff52f8476bd997ffa396b41c1ddb0a0b3a43","tarball":"https://registry.npmjs.org/gm-i18n/-/gm-i18n-1.1.0.tgz","fileCount":3,"unpackedSize":2022,"npm-signature":"-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbNFFSCRA9TVsSAnZWagAAQuYP/3fajYem9w40lJSypVbV\nM8Tp1ybRJVFNJKPmoa+eozXYmNEddjnb29UAmtgXaxfMLiTJucLl8XLprhaV\nuFgCU0wltq6B0YPyVzhgGqz2Qzwii63oPZy3emB8dyCg7fkESqRvcd9/t88e\nq047yiFZE3NjtzsOQtWSDBPoq+SaaRHJz5uWBs+yRBuiPh9Szl+xCTNFKnvF\nJgrRq+tAC6t5mt1nMLYIljdVCBLM9VjaSlGITOm/1VwPBkKoZOovd3Jh4Cop\nHXvmW3Gwd+Yo1pZZGOhSuvjt8T2sWliTtJnqheI4vVwAtszvksNBJhX2UM/z\nZvgzqUwB96O0ohHJrTae7ORtA1G14Qc45A+n6n/F86ion15NpzjVpALu8sMi\nClq8AXP3E+9L9JNcpB/I4zuMfb7PQeRonyooPTUPdC1g4PaOHa0sYNVcNS2k\nRxwizg9imjMhuKVs5kKKVrrnko7hrSh6+gasGrx2DLLOgsA7m2q8mbQnTDjk\np42WaZgYwNAl/iSi3WdsxRA3vg5LcUdhnh91QOS+6ZMv+CML0xYdCfIfujLc\nhdu9BTwIVVTokMf1E0psrbe9Mz2Wpx5Bt/tmBzYq2XaRjnrC+LhDX9zOBO82\nGKCOwdOuwEbgvlmGsXP24sqfnQSPn0DnmzTJWo04GFiS/A6gY4S2hYMfR51Z\nCvdD\r\n=4y9W\r\n-----END PGP SIGNATURE-----\r\n"}, no deps: false, publish on cnpm: false, dependencies: 2, devDependencies: 0, syncDevDependencies: false
+[2018-06-28 11:09:13]     add dependencies: i18next
+[2018-06-28 11:09:13]     add dependencies: js-cookie
+[2018-06-28 11:09:14]     [gm-i18n:0] done, insertId: 23286786, author: gmfe, version: 1.1.0, size: 1207, publish_time: "2018-06-28T03:09:06.292Z", publish on cnpm: false, moduleAbbreviatedId: 9917098
+[2018-06-28 11:09:14]   [gm-i18n] no versions need to deleted
+[2018-06-28 11:09:14]     save packageReadme: 764174 gm-i18n 1.1.0
+[2018-06-28 11:09:14]   [gm-i18n] adding 1 tags
+[2018-06-28 11:09:16] [2018-06-28 11:09:14]     added tag latest:1.1.0, module_id: 23286786
+[2018-06-28 11:09:14]   [gm-i18n] all 1 npm users exists
+[2018-06-28 11:09:14] [c#0] [gm-i18n] synced success, 1 versions: 1.1.0
+[2018-06-28 11:09:14] ----------------- Synced gm-i18n success -------------------
+[2018-06-28 11:09:14] ----------------- Syncing i18next -------------------
+[2018-06-28 11:09:15] [c#0] [i18next] official registry({"latest":"11.3.3","alpha":"2.0.0-alpha.29","beta":"2.0.0-beta.1"}, "2018-06-14T12:50:42.634Z"), replicate({"latest":"11.3.3","alpha":"2.0.0-alpha.29","beta":"2.0.0-beta.1"}, "2018-06-14T12:50:42.634Z")
+[2018-06-28 11:09:15] [c#0] [i18next] package(https://replicate.npmjs.com/i18next) status: 200, dist-tags: {"latest":"11.3.3","alpha":"2.0.0-alpha.29","beta":"2.0.0-beta.1"}, time.modified: 2018-06-14T12:50:42.634Z, unpublished: null, start...
+[2018-06-28 11:09:16]   [i18next] found 0 missing star users
+[2018-06-28 11:09:16]   [i18next] all versions are exists
+[2018-06-28 11:09:16]   [i18next] no versions need to deleted
+[2018-06-28 11:09:16]   [i18next] all 43 npm users exists
+[2018-06-28 11:09:16] [c#0] [i18next] synced success, 0 versions: 
+[2018-06-28 11:09:16] ----------------- Synced i18next success -------------------
+[2018-06-28 11:09:16] ----------------- Syncing js-cookie -------------------
+[2018-06-28 11:09:18] [2018-06-28 11:09:16] [c#0] [js-cookie] official registry({"latest":"2.2.0"}, "2018-03-20T21:48:16.271Z"), replicate({"latest":"2.2.0"}, "2018-03-20T21:48:16.271Z")
+[2018-06-28 11:09:16] [c#0] [js-cookie] package(https://replicate.npmjs.com/js-cookie) status: 200, dist-tags: {"latest":"2.2.0"}, time.modified: 2018-03-20T21:48:16.271Z, unpublished: null, start...
+[2018-06-28 11:09:16]   [js-cookie] found 0 missing star users
+[2018-06-28 11:09:16]   [js-cookie] all versions are exists
+[2018-06-28 11:09:16]   [js-cookie] no versions need to deleted
+[2018-06-28 11:09:16]   [js-cookie] all 80 npm users exists
+[2018-06-28 11:09:16] [c#0] [js-cookie] synced success, 0 versions: 
+[2018-06-28 11:09:16] ----------------- Synced js-cookie success -------------------
+[2018-06-28 11:09:16] [Upstream done] Sync gm-i18n package finished, 3 success, 0 fail
+Success: [ gm-i18n, i18next, js-cookie ]
+Fail: [  ]
+[2018-06-28 11:09:18] ----------------- Synced upstream https://r.cnpmjs.org/gm-i18n/sync/log/3555242 -------------------
+[2018-06-28 11:09:18] ----------------- Syncing gm-i18n -------------------
+[2018-06-28 11:09:19] [c#0] [gm-i18n] package(https://r.cnpmjs.org/gm-i18n) status: 200, dist-tags: {"latest":"1.1.0"}, time.modified: 2018-06-28T03:09:14.000Z, unpublished: null, start...
+[2018-06-28 11:09:19]   [gm-i18n] found 0 missing star users
+[2018-06-28 11:09:19]   [gm-i18n] 1 versions need to sync
+[2018-06-28 11:09:19]     [gm-i18n:0] syncing, delay: 12868 ms, version: 1.1.0, dist: {"shasum":"4a0fff52f8476bd997ffa396b41c1ddb0a0b3a43","size":1207,"noattachment":false,"tarball":"https://r.cnpmjs.org/gm-i18n/download/gm-i18n-1.1.0.tgz"}, no deps: false, publish on cnpm: false, dependencies: 2, devDependencies: 0, syncDevDependencies: false
+[2018-06-28 11:09:19]     add dependencies: i18next
+[2018-06-28 11:09:19]     add dependencies: js-cookie
+[2018-06-28 11:09:19]     [gm-i18n:0] done, insertId: 18229003, author: gmfe, version: 1.1.0, size: 1207, publish_time: "2018-06-28T03:09:06.292Z", publish on cnpm: false, moduleAbbreviatedId: 11519707
+[2018-06-28 11:09:19]   [gm-i18n] no versions need to deleted
+[2018-06-28 11:09:19]   [gm-i18n] adding 1 tags
+[2018-06-28 11:09:19]     added tag latest:1.1.0, module_id: 18229003
+[2018-06-28 11:09:19]   [gm-i18n] all 1 npm users exists
+[2018-06-28 11:09:19] [c#0] [gm-i18n] synced success, 1 versions: 1.1.0
+[2018-06-28 11:09:19] ----------------- Synced gm-i18n success -------------------
+[2018-06-28 11:09:19] ----------------- Syncing i18next -------------------
+[2018-06-28 11:09:20] [c#0] [i18next] package(https://r.cnpmjs.org/i18next) status: 200, dist-tags: {"alpha":"2.0.0-alpha.29","beta":"2.0.0-beta.1","latest":"11.3.3"}, time.modified: 2018-06-14T12:50:54.000Z, unpublished: null, start...
+[2018-06-28 11:09:20]   [i18next] found 0 missing star users
+[2018-06-28 11:09:20]   [i18next] all versions are exists
+[2018-06-28 11:09:20]   [i18next] no versions need to deleted
+[2018-06-28 11:09:20]   [i18next] all 47 npm users exists
+[2018-06-28 11:09:20] [c#0] [i18next] synced success, 0 versions: 
+[2018-06-28 11:09:20] ----------------- Synced i18next success -------------------
+[2018-06-28 11:09:20] ----------------- Syncing js-cookie -------------------
+[2018-06-28 11:09:20] [c#0] [js-cookie] package(https://r.cnpmjs.org/js-cookie) status: 200, dist-tags: {"latest":"2.2.0"}, time.modified: 2017-10-28T07:04:48.000Z, unpublished: null, start...
+[2018-06-28 11:09:21]   [js-cookie] found 0 missing star users
+[2018-06-28 11:09:21]   [js-cookie] all versions are exists
+[2018-06-28 11:09:21]   [js-cookie] no versions need to deleted
+[2018-06-28 11:09:21]   [js-cookie] all 82 npm users exists
+[2018-06-28 11:09:21] [c#0] [js-cookie] synced success, 0 versions: 
+[2018-06-28 11:09:21] ----------------- Synced js-cookie success -------------------
+[2018-06-28 11:09:21] [done] Sync gm-i18n package finished, 3 success, 0 fail
+Success: [ gm-i18n, i18next, js-cookie ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-i18n"], failed: []
+[32m[2018-06-28T11:09:21.541] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-i18n 手动触发更新。
+[36m[2018-06-28T11:14:53.524] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-06-28T11:15:07.407] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v1.1.1
+[32m[2018-06-28T11:15:07.408] [INFO] default - [39mstart to publish gm-i18n ...
+[32m[2018-06-28T11:15:20.316] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-i18n;】 + gm-i18n@1.1.1
+Start sync ["gm-i18n"].
+sync gm-i18n, PUT http://registry.npm.taobao.org/gm-i18n/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-i18n#logid=1949765
+[2018-06-28 11:15:13] user: anonymous, sync gm-i18n worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-06-28 11:15:13] ----------------- Syncing gm-i18n -------------------
+[2018-06-28 11:15:18] [c#0] [gm-i18n] package(https://r.cnpmjs.org/gm-i18n) status: 200, dist-tags: {"latest":"1.1.0"}, time.modified: 2018-06-28T03:09:14.000Z, unpublished: null, start...
+[2018-06-28 11:15:18]   [gm-i18n] found 0 missing star users
+[2018-06-28 11:15:18]   [gm-i18n] all versions are exists
+[2018-06-28 11:15:18]   [gm-i18n] no versions need to deleted
+[2018-06-28 11:15:18]   [gm-i18n] all 1 npm users exists
+[2018-06-28 11:15:18] [c#0] [gm-i18n] synced success, 0 versions: 
+[2018-06-28 11:15:18] ----------------- Synced gm-i18n success -------------------
+[2018-06-28 11:15:18] [done] Sync gm-i18n package finished, 1 success, 0 fail
+Success: [ gm-i18n ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-i18n"], failed: []
+[32m[2018-06-28T11:15:20.317] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-i18n 手动触发更新。
+[36m[2018-06-28T11:31:17.430] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-06-28T11:31:30.436] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v1.1.2
+[32m[2018-06-28T11:31:30.437] [INFO] default - [39mstart to publish gm-i18n ...
+[32m[2018-06-28T11:31:47.658] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-i18n;】 + gm-i18n@1.1.2
+Start sync ["gm-i18n"].
+sync gm-i18n, PUT http://registry.npm.taobao.org/gm-i18n/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-i18n#logid=1950111
+[2018-06-28 11:31:37] user: anonymous, sync gm-i18n worker start, 1 concurrency, nodeps: false, publish: false
+[2018-06-28 11:31:38] ----------------- Syncing upstream https://r.cnpmjs.org/gm-i18n/sync/log/3555400 -------------------
+[2018-06-28 11:31:38] [2018-06-28 11:31:38] user: anonymous, sync gm-i18n worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-06-28 11:31:38] ----------------- Syncing gm-i18n -------------------
+[2018-06-28 11:31:40] [2018-06-28 11:31:39] [c#0] [gm-i18n] official registry({"latest":"1.1.2"}, "2018-06-28T03:31:36.586Z"), replicate({"latest":"1.1.2"}, "2018-06-28T03:31:36.586Z")
+[2018-06-28 11:31:39] [c#0] [gm-i18n] package(https://replicate.npmjs.com/gm-i18n) status: 200, dist-tags: {"latest":"1.1.2"}, time.modified: 2018-06-28T03:31:36.586Z, unpublished: null, start...
+[2018-06-28 11:31:42] [2018-06-28 11:31:41]   [gm-i18n] found 0 missing star users
+[2018-06-28 11:31:41]   [gm-i18n] 1 versions need to sync
+[2018-06-28 11:31:41]     [gm-i18n:0] syncing, delay: 8238 ms, version: 1.1.2, dist: {"integrity":"sha512-U9laoI7VfYMtBBfRB/OTPWmSbD1QmiVIk4+f9jaCZj6D5ZzkMZVrHslP1Lwst4QkrMwJgNXMR6WwkQpW1dh8AQ==","shasum":"3f0933ae183cbeb588877dafaecc7e6ae6133623","tarball":"https://registry.npmjs.org/gm-i18n/-/gm-i18n-1.1.2.tgz","fileCount":3,"unpackedSize":2000,"npm-signature":"-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbNFaUCRA9TVsSAnZWagAAzMgP/0mNJCP8wL+qavA+Nf0M\nO2TWLIRbaHNzkiXHbZR3r3Fh2gKF/neJEcdB9H7Z1J1GTTlULvohVqxQKJ+W\nk3E3N/Xqzw0ZMnsWCkuGz2maDH1ghcRM+5Oa2CA1EyEZb6LTC5BN2EMZDtzl\nXno7y2HGWnfahF8jAhOkR9kFcrjg6SpPiv5wSa+Xr9Ai28RycHA1+vIRw+s7\nkDoQZiAVrCFDD6imtj51fI6Qep/XB916VH4jWTsfdC4njdflFy5s+So7zmaF\nix8t9uJw08BskdDOh8OifiB7xPk4tdAGBDHWg8B2VboERF+HKu9VUMxy9zIU\n2wKScnnMLlTDK3UvbEZtKj6Hh1Q9e41pC6bb5MNspfNPjggrf+U2kfyNewLK\nK59Rf2BSOav8QVqVJmre2epk0UW655CRVlyMqMwEZ3jpRk5REoN2px88sdpu\nGbJTqcLxRBL5i34YaFHjtTVEK18zvvTEZsyUfM/AC34Xe382tTRiR7Sj/6Ov\nHKru7uqgOF4ZZOAxsdbiqHvy7dXMi667oxnpPDd3tVz6p4fUTsvbqOQAect3\nZqRDJreGo88hmvg7VK3+jLT2ImCUHz7IkoQzH5aVdhZZLLyST77sKGbJyjew\ntkfjJX9SliasGrYSisf3m80lG31iZkju+UHW6LVtZ6p4K4ULNbAEhZRk2cEp\n8s8v\r\n=teqd\r\n-----END PGP SIGNATURE-----\r\n"}, no deps: false, publish on cnpm: false, dependencies: 2, devDependencies: 0, syncDevDependencies: false
+[2018-06-28 11:31:41]     add dependencies: i18next
+[2018-06-28 11:31:41]     add dependencies: js-cookie
+[2018-06-28 11:31:42]     [gm-i18n:0] done, insertId: 23286945, author: gmfe, version: 1.1.2, size: 1194, publish_time: "2018-06-28T03:31:32.771Z", publish on cnpm: false, moduleAbbreviatedId: 9917251
+[2018-06-28 11:31:42]   [gm-i18n] no versions need to deleted
+[2018-06-28 11:31:42]     save packageReadme: 764174 gm-i18n 1.1.2
+[2018-06-28 11:31:42]   [gm-i18n] adding 1 tags
+[2018-06-28 11:31:42]     added tag latest:1.1.2, module_id: 23286945
+[2018-06-28 11:31:42]   [gm-i18n] all 1 npm users exists
+[2018-06-28 11:31:42] [c#0] [gm-i18n] synced success, 1 versions: 1.1.2
+[2018-06-28 11:31:42] ----------------- Synced gm-i18n success -------------------
+[2018-06-28 11:31:42] ----------------- Syncing i18next -------------------
+[2018-06-28 11:31:44] [2018-06-28 11:31:42] [c#0] [i18next] official registry({"latest":"11.3.3","alpha":"2.0.0-alpha.29","beta":"2.0.0-beta.1"}, "2018-06-14T12:50:42.634Z"), replicate({"latest":"11.3.3","alpha":"2.0.0-alpha.29","beta":"2.0.0-beta.1"}, "2018-06-14T12:50:42.634Z")
+[2018-06-28 11:31:42] [c#0] [i18next] package(https://replicate.npmjs.com/i18next) status: 200, dist-tags: {"latest":"11.3.3","alpha":"2.0.0-alpha.29","beta":"2.0.0-beta.1"}, time.modified: 2018-06-14T12:50:42.634Z, unpublished: null, start...
+[2018-06-28 11:31:43]   [i18next] found 0 missing star users
+[2018-06-28 11:31:43]   [i18next] all versions are exists
+[2018-06-28 11:31:43]   [i18next] no versions need to deleted
+[2018-06-28 11:31:43]   [i18next] all 43 npm users exists
+[2018-06-28 11:31:43] [c#0] [i18next] synced success, 0 versions: 
+[2018-06-28 11:31:43] ----------------- Synced i18next success -------------------
+[2018-06-28 11:31:43] ----------------- Syncing js-cookie -------------------
+[2018-06-28 11:31:43] [c#0] [js-cookie] official registry({"latest":"2.2.0"}, "2018-03-20T21:48:16.271Z"), replicate({"latest":"2.2.0"}, "2018-03-20T21:48:16.271Z")
+[2018-06-28 11:31:43] [c#0] [js-cookie] package(https://replicate.npmjs.com/js-cookie) status: 200, dist-tags: {"latest":"2.2.0"}, time.modified: 2018-03-20T21:48:16.271Z, unpublished: null, start...
+[2018-06-28 11:31:43]   [js-cookie] found 0 missing star users
+[2018-06-28 11:31:43]   [js-cookie] all versions are exists
+[2018-06-28 11:31:43]   [js-cookie] no versions need to deleted
+[2018-06-28 11:31:43]   [js-cookie] all 80 npm users exists
+[2018-06-28 11:31:43] [c#0] [js-cookie] synced success, 0 versions: 
+[2018-06-28 11:31:43] ----------------- Synced js-cookie success -------------------
+[2018-06-28 11:31:43] [Upstream done] Sync gm-i18n package finished, 3 success, 0 fail
+Success: [ gm-i18n, i18next, js-cookie ]
+Fail: [  ]
+[2018-06-28 11:31:44] ----------------- Synced upstream https://r.cnpmjs.org/gm-i18n/sync/log/3555400 -------------------
+[2018-06-28 11:31:44] ----------------- Syncing gm-i18n -------------------
+[2018-06-28 11:31:44] [c#0] [gm-i18n] package(https://r.cnpmjs.org/gm-i18n) status: 200, dist-tags: {"latest":"1.1.2"}, time.modified: 2018-06-28T03:31:42.000Z, unpublished: null, start...
+[2018-06-28 11:31:45]   [gm-i18n] found 0 missing star users
+[2018-06-28 11:31:45]   [gm-i18n] 1 versions need to sync
+[2018-06-28 11:31:45]     [gm-i18n:0] syncing, delay: 12622 ms, version: 1.1.2, dist: {"shasum":"3f0933ae183cbeb588877dafaecc7e6ae6133623","size":1194,"noattachment":false,"tarball":"https://r.cnpmjs.org/gm-i18n/download/gm-i18n-1.1.2.tgz"}, no deps: false, publish on cnpm: false, dependencies: 2, devDependencies: 0, syncDevDependencies: false
+[2018-06-28 11:31:45]     add dependencies: i18next
+[2018-06-28 11:31:45]     add dependencies: js-cookie
+[2018-06-28 11:31:46]     [gm-i18n:0] done, insertId: 18229179, author: gmfe, version: 1.1.2, size: 1194, publish_time: "2018-06-28T03:31:32.771Z", publish on cnpm: false, moduleAbbreviatedId: 11519872
+[2018-06-28 11:31:46]   [gm-i18n] no versions need to deleted
+[2018-06-28 11:31:46]   [gm-i18n] adding 1 tags
+[2018-06-28 11:31:46]     added tag latest:1.1.2, module_id: 18229179
+[2018-06-28 11:31:46]   [gm-i18n] all 1 npm users exists
+[2018-06-28 11:31:46] [c#0] [gm-i18n] synced success, 1 versions: 1.1.2
+[2018-06-28 11:31:46] ----------------- Synced gm-i18n success -------------------
+[2018-06-28 11:31:46] ----------------- Syncing i18next -------------------
+[2018-06-28 11:31:46] [c#0] [i18next] package(https://r.cnpmjs.org/i18next) status: 200, dist-tags: {"alpha":"2.0.0-alpha.29","beta":"2.0.0-beta.1","latest":"11.3.3"}, time.modified: 2018-06-14T12:50:54.000Z, unpublished: null, start...
+[2018-06-28 11:31:46]   [i18next] found 0 missing star users
+[2018-06-28 11:31:46]   [i18next] all versions are exists
+[2018-06-28 11:31:46]   [i18next] no versions need to deleted
+[2018-06-28 11:31:46]   [i18next] all 47 npm users exists
+[2018-06-28 11:31:46] [c#0] [i18next] synced success, 0 versions: 
+[2018-06-28 11:31:46] ----------------- Synced i18next success -------------------
+[2018-06-28 11:31:46] ----------------- Syncing js-cookie -------------------
+[2018-06-28 11:31:47] [c#0] [js-cookie] package(https://r.cnpmjs.org/js-cookie) status: 200, dist-tags: {"latest":"2.2.0"}, time.modified: 2017-10-28T07:04:48.000Z, unpublished: null, start...
+[2018-06-28 11:31:47]   [js-cookie] found 0 missing star users
+[2018-06-28 11:31:47]   [js-cookie] all versions are exists
+[2018-06-28 11:31:47]   [js-cookie] no versions need to deleted
+[2018-06-28 11:31:47]   [js-cookie] all 82 npm users exists
+[2018-06-28 11:31:47] [c#0] [js-cookie] synced success, 0 versions: 
+[2018-06-28 11:31:47] ----------------- Synced js-cookie success -------------------
+[2018-06-28 11:31:47] [done] Sync gm-i18n package finished, 3 success, 0 fail
+Success: [ gm-i18n, i18next, js-cookie ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-i18n"], failed: []
+[32m[2018-06-28T11:31:47.658] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-i18n 手动触发更新。

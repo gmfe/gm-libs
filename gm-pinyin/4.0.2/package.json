@@ -1,0 +1,30 @@
+{
+  "name": "gm-pinyin",
+  "version": "4.0.2",
+  "description": "",
+  "main": "dist/pinyin.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "babel-loader": "^8.0.5",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmfe/gm-pinyin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmfe/gm-pinyin/issues"
+  },
+  "homepage": "https://github.com/gmfe/gm-pinyin#readme"
+}

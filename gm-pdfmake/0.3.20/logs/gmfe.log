@@ -1,0 +1,488 @@
+[36m[2018-03-29T15:21:46.550] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-03-29T15:21:55.377] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v0.3.5
+[32m[2018-03-29T15:21:55.378] [INFO] default - [39mstart to publish gm-pdfmake ...
+[32m[2018-03-29T15:23:08.834] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-pdfmake;】 + gm-pdfmake@0.3.5
+Start sync ["gm-pdfmake"].
+sync gm-pdfmake, PUT http://registry.npm.taobao.org/gm-pdfmake/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-pdfmake#logid=5234345
+[2018-03-29 15:23:06] user: anonymous, sync gm-pdfmake worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-03-29 15:23:06] ----------------- Syncing gm-pdfmake -------------------
+[2018-03-29 15:23:06] [c#0] [gm-pdfmake] package(https://r.cnpmjs.org/gm-pdfmake) status: 200, dist-tags: {"latest":"0.3.4"}, time.modified: 2018-03-28T06:51:19.000Z, unpublished: null, start...
+[2018-03-29 15:23:07]   [gm-pdfmake] found 0 missing star users
+[2018-03-29 15:23:07]   [gm-pdfmake] all versions are exists
+[2018-03-29 15:23:07]   [gm-pdfmake] no versions need to deleted
+[2018-03-29 15:23:07]   [gm-pdfmake] all 1 npm users exists
+[2018-03-29 15:23:07] [c#0] [gm-pdfmake] synced success, 0 versions: 
+[2018-03-29 15:23:07] ----------------- Synced gm-pdfmake success -------------------
+[2018-03-29 15:23:07] [done] Sync gm-pdfmake package finished, 1 success, 0 fail
+Success: [ gm-pdfmake ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-pdfmake"], failed: []
+[32m[2018-03-29T15:23:08.835] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-pdfmake 手动触发更新。
+[36m[2018-05-16T19:28:59.260] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-05-16T19:29:12.914] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v0.3.8
+[32m[2018-05-16T19:29:12.914] [INFO] default - [39mstart to publish gm-pdfmake ...
+[32m[2018-05-16T19:30:53.221] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-pdfmake;】 + gm-pdfmake@0.3.8
+Start sync ["gm-pdfmake"].
+sync gm-pdfmake, PUT http://registry.npm.taobao.org/gm-pdfmake/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-pdfmake#logid=1012311
+[2018-05-16 19:30:50] user: anonymous, sync gm-pdfmake worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-05-16 19:30:50] ----------------- Syncing gm-pdfmake -------------------
+[2018-05-16 19:30:51] [c#0] [gm-pdfmake] package(https://r.cnpmjs.org/gm-pdfmake) status: 200, dist-tags: {"latest":"0.3.7"}, time.modified: 2018-04-13T09:49:48.000Z, unpublished: null, start...
+[2018-05-16 19:30:51]   [gm-pdfmake] found 0 missing star users
+[2018-05-16 19:30:51]   [gm-pdfmake] all versions are exists
+[2018-05-16 19:30:51]   [gm-pdfmake] no versions need to deleted
+[2018-05-16 19:30:51]   [gm-pdfmake] all 1 npm users exists
+[2018-05-16 19:30:51] [c#0] [gm-pdfmake] synced success, 0 versions: 
+[2018-05-16 19:30:51] ----------------- Synced gm-pdfmake success -------------------
+[2018-05-16 19:30:51] [done] Sync gm-pdfmake package finished, 1 success, 0 fail
+Success: [ gm-pdfmake ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-pdfmake"], failed: []
+[32m[2018-05-16T19:30:53.222] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-pdfmake 手动触发更新。
+[36m[2018-05-16T19:49:36.951] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-05-16T19:49:48.324] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v0.3.9
+[32m[2018-05-16T19:49:48.325] [INFO] default - [39mstart to publish gm-pdfmake ...
+[32m[2018-05-16T19:51:01.429] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-pdfmake;】 + gm-pdfmake@0.3.9
+Start sync ["gm-pdfmake"].
+sync gm-pdfmake, PUT http://registry.npm.taobao.org/gm-pdfmake/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-pdfmake#logid=1012631
+[2018-05-16 19:50:09] user: anonymous, sync gm-pdfmake worker start, 1 concurrency, nodeps: false, publish: false
+[2018-05-16 19:50:09] ----------------- Syncing upstream https://r.cnpmjs.org/gm-pdfmake/sync/log/3113518 -------------------
+[2018-05-16 19:50:09] [2018-05-16 19:50:09] user: anonymous, sync gm-pdfmake worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-05-16 19:50:09] ----------------- Syncing gm-pdfmake -------------------
+[2018-05-16 19:50:11] [2018-05-16 19:50:09] [c#0] [gm-pdfmake] package(https://replicate.npmjs.com/gm-pdfmake) status: 200, dist-tags: {"latest":"0.3.9"}, time.modified: 2018-05-16T11:50:07.415Z, unpublished: null, start...
+[2018-05-16 19:50:10]   [gm-pdfmake] found 0 missing star users
+[2018-05-16 19:50:10]   [gm-pdfmake] 1 versions need to sync
+[2018-05-16 19:50:10]     [gm-pdfmake:0] syncing, delay: 6348 ms, version: 0.3.9, dist: {"integrity":"sha512-pCDPiCy9ZyZpwHur1WswAWZ9SPQacC40d/woymz/q1Qo0WqZySI5M6SO1HwLG8YM0Mojf4OdZy96be0HGUvzjA==","shasum":"baf413bcb07be9030db7dba9dc546a51b48052cd","tarball":"https://registry.npmjs.org/gm-pdfmake/-/gm-pdfmake-0.3.9.tgz","fileCount":46,"unpackedSize":17632621,"npm-signature":"-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJa/BrsCRA9TVsSAnZWagAAa1YP/RftCiiGISkBi0wpIltE\nStmiUps/mbK5rRXNg4blTURdUbCkM33D8PPXfXiwwd3EsNUL6/Md64IOrxKz\nyNmML5I+ji/dc2ryXUGi1Utbros5FQStKQIinlAdOlfi+HODgf2NbeJPLqvP\n2KL6l/Ip1tU+opi18ZmKcr+u36MA52h66SWViOmfGhoYza6DU2wx6NPR/Iab\nHrZNPjpUGrIew8S+PRaRgBQyPEHbfdKGNOIluikc0OcbMBQWZSWEEJrazY7t\nJEwNbYn9gmKBb6EuxIWPei2oxC8zGwxYJbJWef9Hw0+1BoQV/J7xXQ0hv+31\nMmoQndkytqOknOzPpK/lqIT5pXu8yuW8pcDbgdKu72NNnS1wbqiJ6YELGDZ5\nyBlF7tmGqbErnH3w47JRS6ACw2IvHbzSC4LrDfdty0rSKyb4BWfVPQzt9U6c\ngZj0zwDASBA7I8N3fiGjgsDr8SafsvJMB6iJvPW3kMjDBMlSsFpNNJ8W4/Cd\nglcr3bONewcd+BO0oNjWvXD/Qg63GzK/PViFkeWey906i36dewxajCWbJZWm\n0Ro2ZnDGdvBs8gcANrNNcDo9WQOHYpsylFmpnzrufxzilCZaRFzQ6S4imSM/\nkoKSG4mP9S2IdQOz0AxESIKVAQqfSxDdxoSBMHTMiZrruRQv6dWBGC74CVfP\nKyhm\r\n=xgDm\r\n-----END PGP SIGNATURE-----\r\n"}, no deps: false, publish on cnpm: false, dependencies: 0, devDependencies: 0, syncDevDependencies: false
+[2018-05-16 19:50:13] [2018-05-16 19:50:12]     [gm-pdfmake:0] done, insertId: 21323830, author: gmfe, version: 0.3.9, size: 7907206, publish_time: "2018-05-16T11:50:03.814Z", publish on cnpm: false, moduleAbbreviatedId: 9565232
+[2018-05-16 19:50:12]   [gm-pdfmake] no versions need to deleted
+[2018-05-16 19:50:12]     save packageReadme: 573255 gm-pdfmake 0.3.9
+[2018-05-16 19:50:12]   [gm-pdfmake] adding 1 tags
+[2018-05-16 19:50:12]     added tag latest:0.3.9, module_id: 21323830
+[2018-05-16 19:50:12]   [gm-pdfmake] all 1 npm users exists
+[2018-05-16 19:50:12] [c#0] [gm-pdfmake] synced success, 1 versions: 0.3.9
+[2018-05-16 19:50:12] ----------------- Synced gm-pdfmake success -------------------
+[2018-05-16 19:50:12] [Upstream done] Sync gm-pdfmake package finished, 1 success, 0 fail
+Success: [ gm-pdfmake ]
+Fail: [  ]
+[2018-05-16 19:50:13] ----------------- Synced upstream https://r.cnpmjs.org/gm-pdfmake/sync/log/3113518 -------------------
+[2018-05-16 19:50:13] ----------------- Syncing gm-pdfmake -------------------
+[2018-05-16 19:50:13] [c#0] [gm-pdfmake] package(https://r.cnpmjs.org/gm-pdfmake) status: 200, dist-tags: {"latest":"0.3.9"}, time.modified: 2018-05-16T11:50:12.000Z, unpublished: null, start...
+[2018-05-16 19:50:14]   [gm-pdfmake] found 0 missing star users
+[2018-05-16 19:50:14]   [gm-pdfmake] 1 versions need to sync
+[2018-05-16 19:50:14]     [gm-pdfmake:0] syncing, delay: 10214 ms, version: 0.3.9, dist: {"shasum":"baf413bcb07be9030db7dba9dc546a51b48052cd","size":7907206,"noattachment":false,"tarball":"https://r.cnpmjs.org/gm-pdfmake/download/gm-pdfmake-0.3.9.tgz"}, no deps: false, publish on cnpm: false, dependencies: 0, devDependencies: 0, syncDevDependencies: false
+[2018-05-16 19:51:01]     [gm-pdfmake:0] done, insertId: 16410508, author: gmfe, version: 0.3.9, size: 7907206, publish_time: "2018-05-16T11:50:03.814Z", publish on cnpm: false, moduleAbbreviatedId: 10521594
+[2018-05-16 19:51:01]   [gm-pdfmake] no versions need to deleted
+[2018-05-16 19:51:01]   [gm-pdfmake] adding 1 tags
+[2018-05-16 19:51:01]     added tag latest:0.3.9, module_id: 16410508
+[2018-05-16 19:51:01]   [gm-pdfmake] all 1 npm users exists
+[2018-05-16 19:51:01] [c#0] [gm-pdfmake] synced success, 1 versions: 0.3.9
+[2018-05-16 19:51:01] ----------------- Synced gm-pdfmake success -------------------
+[2018-05-16 19:51:01] [done] Sync gm-pdfmake package finished, 1 success, 0 fail
+Success: [ gm-pdfmake ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-pdfmake"], failed: []
+[32m[2018-05-16T19:51:01.430] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-pdfmake 手动触发更新。
+[36m[2018-05-17T12:07:00.799] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-05-17T12:07:13.801] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v0.3.10
+[32m[2018-05-17T12:07:13.802] [INFO] default - [39mstart to publish gm-pdfmake ...
+[32m[2018-05-17T12:07:56.938] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-pdfmake;】 + gm-pdfmake@0.3.10
+Start sync ["gm-pdfmake"].
+sync gm-pdfmake, PUT http://registry.npm.taobao.org/gm-pdfmake/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-pdfmake#logid=1025904
+[2018-05-17 12:07:31] user: anonymous, sync gm-pdfmake worker start, 1 concurrency, nodeps: false, publish: false
+[2018-05-17 12:07:31] ----------------- Syncing upstream https://r.cnpmjs.org/gm-pdfmake/sync/log/3120680 -------------------
+[2018-05-17 12:07:32] [2018-05-17 12:07:31] user: anonymous, sync gm-pdfmake worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-05-17 12:07:31] ----------------- Syncing gm-pdfmake -------------------
+[2018-05-17 12:07:34] [2018-05-17 12:07:33] [c#0] [gm-pdfmake] package(https://replicate.npmjs.com/gm-pdfmake) status: 200, dist-tags: {"latest":"0.3.9"}, time.modified: 2018-05-16T11:50:07.415Z, unpublished: null, start...
+[2018-05-17 12:07:36] [2018-05-17 12:07:34]   [gm-pdfmake] found 0 missing star users
+[2018-05-17 12:07:34]   [gm-pdfmake] all versions are exists
+[2018-05-17 12:07:34]   [gm-pdfmake] no versions need to deleted
+[2018-05-17 12:07:34]   [gm-pdfmake] all 1 npm users exists
+[2018-05-17 12:07:34] [c#0] [gm-pdfmake] synced success, 0 versions: 
+[2018-05-17 12:07:34] ----------------- Synced gm-pdfmake success -------------------
+[2018-05-17 12:07:34] ----------------- Syncing gm-pdfmake -------------------
+[2018-05-17 12:07:40] [2018-05-17 12:07:36] [c#0] [gm-pdfmake] package(https://registry.npmjs.com/gm-pdfmake) status: 200, dist-tags: {"latest":"0.3.10"}, time.modified: 2018-05-17T04:07:30.005Z, unpublished: null, start...
+[2018-05-17 12:07:37]   [gm-pdfmake] found 0 missing star users
+[2018-05-17 12:07:37]   [gm-pdfmake] 1 versions need to sync
+[2018-05-17 12:07:37]     [gm-pdfmake:0] syncing, delay: 10848 ms, version: 0.3.10, dist: {"integrity":"sha512-kBWBYsA3taQnRIiifhDQl4I4dyLt3fGCBgCwY3bGBsqcyusOGtJS7pGWoohU33X/GkkCGnJq10aCvqEXKLSCUA==","shasum":"e1f54acc6d4b008eba927dff741ea4c3d44c3420","tarball":"https://registry.npmjs.org/gm-pdfmake/-/gm-pdfmake-0.3.10.tgz","fileCount":46,"unpackedSize":17638417,"npm-signature":"-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJa/P//CRA9TVsSAnZWagAA81kP+wYp0Vm60iuK/y/eHCY7\nGwvGFwJXmOQpiEqNktNRFEzl/wCuf/cqlLEG8qNYTxfhK/U67TlPEMEgjX1S\nXwYVndmw6hRTX+/1N3qXOwy0W7MMCzqCFDVkg4xVpLcxDzQUqaUioML5JkSR\nSA51lN120hB4DJF+GagROCQwS9PnbRMdbvGNzEPtV9CKTVjp85AY7LIGBPRM\nTx8/WxqGROIx6MlsHMpe+ifsDaWNz/7sO3vU7bg7QP/vzerxTLncqNTZKx6b\noorN0v79xNJdjyYRkZpPdCfP1geCJUCCaa+/deRClG0I5jSfmCFN1d06VVDs\nNU7LLYbE19ZHThNB53UYSNwmnEf/QwBn/8mgymbmpXLgpmbKvL6iM9xw4zWA\n7NxUomLCght/nnlWjBfjxXzePICmTg7XTJRv67mUW7fTpBbt0QL2horFIiLQ\n5xUpoUKiWjhxV9ZkAg1R7g6U3nQSCMFxHfZE8r0z+D9mEYk9DO0wjpcwH6hW\nPsFZm2kz3GkhoT5ZYYtBfytc6YVWCl9YSpPWmvoFMGaCd2fu6Y2XxFn00LCW\n3aLI7WTU0UocReTh1qOj23u2d2JXieWirxAf5HDSFnk7huiDliqupLG6/pUp\nniDkv8l+lJY3GTW5xuazGVUyUXd4dllTDQG3yaSrsCC3pysGOQc0k3YCOHtx\nVC7o\r\n=8L4u\r\n-----END PGP SIGNATURE-----\r\n"}, no deps: false, publish on cnpm: false, dependencies: 0, devDependencies: 0, syncDevDependencies: false
+[2018-05-17 12:07:50] [2018-05-17 12:07:50]     [gm-pdfmake:0] done, insertId: 21377595, author: gmfe, version: 0.3.10, size: 7908439, publish_time: "2018-05-17T04:07:26.388Z", publish on cnpm: false, moduleAbbreviatedId: 9572531
+[2018-05-17 12:07:50]   [gm-pdfmake] no versions need to deleted
+[2018-05-17 12:07:52] [2018-05-17 12:07:50]     save packageReadme: 573255 gm-pdfmake 0.3.10
+[2018-05-17 12:07:50]   [gm-pdfmake] adding 1 tags
+[2018-05-17 12:07:50]     added tag latest:0.3.10, module_id: 21377595
+[2018-05-17 12:07:50]   [gm-pdfmake] all 1 npm users exists
+[2018-05-17 12:07:50] [c#0] [gm-pdfmake] synced success, 1 versions: 0.3.10
+[2018-05-17 12:07:50] ----------------- Synced gm-pdfmake success -------------------
+[2018-05-17 12:07:50] [Upstream done] Sync gm-pdfmake package finished, 2 success, 0 fail
+Success: [ gm-pdfmake, gm-pdfmake ]
+Fail: [  ]
+[2018-05-17 12:07:52] ----------------- Synced upstream https://r.cnpmjs.org/gm-pdfmake/sync/log/3120680 -------------------
+[2018-05-17 12:07:52] ----------------- Syncing gm-pdfmake -------------------
+[2018-05-17 12:07:52] [c#0] [gm-pdfmake] package(https://r.cnpmjs.org/gm-pdfmake) status: 200, dist-tags: {"latest":"0.3.10"}, time.modified: 2018-05-17T04:07:50.000Z, unpublished: null, start...
+[2018-05-17 12:07:53]   [gm-pdfmake] found 0 missing star users
+[2018-05-17 12:07:53]   [gm-pdfmake] 1 versions need to sync
+[2018-05-17 12:07:53]     [gm-pdfmake:0] syncing, delay: 26766 ms, version: 0.3.10, dist: {"shasum":"e1f54acc6d4b008eba927dff741ea4c3d44c3420","size":7908439,"noattachment":false,"tarball":"https://r.cnpmjs.org/gm-pdfmake/download/gm-pdfmake-0.3.10.tgz"}, no deps: false, publish on cnpm: false, dependencies: 0, devDependencies: 0, syncDevDependencies: false
+[2018-05-17 12:07:56]     [gm-pdfmake:0] done, insertId: 16441916, author: gmfe, version: 0.3.10, size: 7908439, publish_time: "2018-05-17T04:07:26.388Z", publish on cnpm: false, moduleAbbreviatedId: 10540192
+[2018-05-17 12:07:56]   [gm-pdfmake] no versions need to deleted
+[2018-05-17 12:07:56]     save packageReadme: 573554 gm-pdfmake 0.3.10
+[2018-05-17 12:07:56]   [gm-pdfmake] adding 1 tags
+[2018-05-17 12:07:56]     added tag latest:0.3.10, module_id: 16441916
+[2018-05-17 12:07:56]   [gm-pdfmake] all 1 npm users exists
+[2018-05-17 12:07:56] [c#0] [gm-pdfmake] synced success, 1 versions: 0.3.10
+[2018-05-17 12:07:56] ----------------- Synced gm-pdfmake success -------------------
+[2018-05-17 12:07:56] [done] Sync gm-pdfmake package finished, 1 success, 0 fail
+Success: [ gm-pdfmake ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-pdfmake"], failed: []
+[32m[2018-05-17T12:07:56.940] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-pdfmake 手动触发更新。
+[36m[2018-08-02T23:31:05.517] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-08-02T23:31:07.636] [INFO] default - [39mnpm account is not gmfe
+[36m[2018-08-02T23:31:20.784] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-08-02T23:32:47.814] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v0.3.11
+[32m[2018-08-02T23:32:47.815] [INFO] default - [39mstart to publish gm-pdfmake ...
+[32m[2018-08-02T23:34:50.530] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-pdfmake;】 + gm-pdfmake@0.3.11
+Start sync ["gm-pdfmake"].
+sync gm-pdfmake, PUT http://registry.npm.taobao.org/gm-pdfmake/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-pdfmake#logid=2719027
+[2018-08-02 23:34:48] user: anonymous, sync gm-pdfmake worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-08-02 23:34:48] ----------------- Syncing gm-pdfmake -------------------
+[2018-08-02 23:34:48] [c#0] [gm-pdfmake] package(https://r.cnpmjs.org/gm-pdfmake) status: 200, dist-tags: {"latest":"0.3.10"}, time.modified: 2018-05-17T04:07:50.000Z, unpublished: null, start...
+[2018-08-02 23:34:48]   [gm-pdfmake] found 0 missing star users
+[2018-08-02 23:34:48]   [gm-pdfmake] all versions are exists
+[2018-08-02 23:34:48]   [gm-pdfmake] no versions need to deleted
+[2018-08-02 23:34:48]   [gm-pdfmake] all 1 npm users exists
+[2018-08-02 23:34:48] [c#0] [gm-pdfmake] synced success, 0 versions: 
+[2018-08-02 23:34:48] ----------------- Synced gm-pdfmake success -------------------
+[2018-08-02 23:34:48] [done] Sync gm-pdfmake package finished, 1 success, 0 fail
+Success: [ gm-pdfmake ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-pdfmake"], failed: []
+[32m[2018-08-02T23:34:50.530] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-pdfmake 手动触发更新。
+[36m[2018-08-03T11:41:08.112] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-08-03T11:41:09.997] [INFO] default - [39mnpm account is not gmfe
+[36m[2018-08-03T11:41:27.637] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-08-03T11:42:54.291] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v0.3.12
+[32m[2018-08-03T11:42:54.292] [INFO] default - [39mstart to publish gm-pdfmake ...
+[32m[2018-08-03T11:43:21.789] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-pdfmake;】 + gm-pdfmake@0.3.12
+Start sync ["gm-pdfmake"].
+sync gm-pdfmake, PUT http://registry.npm.taobao.org/gm-pdfmake/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-pdfmake#logid=2728004
+[2018-08-03 11:43:19] user: anonymous, sync gm-pdfmake worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-08-03 11:43:19] ----------------- Syncing gm-pdfmake -------------------
+[2018-08-03 11:43:19] [c#0] [gm-pdfmake] package(https://r.cnpmjs.org/gm-pdfmake) status: 200, dist-tags: {"latest":"0.3.11"}, time.modified: 2018-08-02T15:34:59.000Z, unpublished: null, start...
+[2018-08-03 11:43:20]   [gm-pdfmake] found 0 missing star users
+[2018-08-03 11:43:20]   [gm-pdfmake] all versions are exists
+[2018-08-03 11:43:20]   [gm-pdfmake] no versions need to deleted
+[2018-08-03 11:43:20]   [gm-pdfmake] all 1 npm users exists
+[2018-08-03 11:43:20] [c#0] [gm-pdfmake] synced success, 0 versions: 
+[2018-08-03 11:43:20] ----------------- Synced gm-pdfmake success -------------------
+[2018-08-03 11:43:20] [done] Sync gm-pdfmake package finished, 1 success, 0 fail
+Success: [ gm-pdfmake ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-pdfmake"], failed: []
+[32m[2018-08-03T11:43:21.790] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-pdfmake 手动触发更新。
+[36m[2018-08-14T10:45:06.424] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-08-14T10:45:08.442] [INFO] default - [39mnpm account is not gmfe
+[36m[2018-08-14T10:46:33.924] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-08-14T10:46:45.309] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v0.3.13
+[32m[2018-08-14T10:46:45.309] [INFO] default - [39mstart to publish gm-pdfmake ...
+[32m[2018-08-14T10:47:15.204] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-pdfmake;】 + gm-pdfmake@0.3.13
+Start sync ["gm-pdfmake"].
+sync gm-pdfmake, PUT http://registry.npm.taobao.org/gm-pdfmake/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-pdfmake#logid=2937216
+[2018-08-14 10:47:12] user: anonymous, sync gm-pdfmake worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-08-14 10:47:12] ----------------- Syncing gm-pdfmake -------------------
+[2018-08-14 10:47:13] [c#0] [gm-pdfmake] package(https://r.cnpmjs.org/gm-pdfmake) status: 200, dist-tags: {"latest":"0.3.12"}, time.modified: 2018-08-03T03:43:29.000Z, unpublished: null, start...
+[2018-08-14 10:47:13]   [gm-pdfmake] found 0 missing star users
+[2018-08-14 10:47:13]   [gm-pdfmake] all versions are exists
+[2018-08-14 10:47:13]   [gm-pdfmake] no versions need to deleted
+[2018-08-14 10:47:13]   [gm-pdfmake] all 1 npm users exists
+[2018-08-14 10:47:13] [c#0] [gm-pdfmake] synced success, 0 versions: 
+[2018-08-14 10:47:13] ----------------- Synced gm-pdfmake success -------------------
+[2018-08-14 10:47:13] [done] Sync gm-pdfmake package finished, 1 success, 0 fail
+Success: [ gm-pdfmake ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-pdfmake"], failed: []
+[32m[2018-08-14T10:47:15.204] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-pdfmake 手动触发更新。
+[36m[2018-09-20T10:18:21.317] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-09-20T10:18:23.255] [INFO] default - [39mnpm account is not gmfe
+[36m[2018-09-20T10:19:11.392] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-09-20T10:21:46.097] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v0.3.14
+[32m[2018-09-20T10:21:46.098] [INFO] default - [39mstart to publish gm-pdfmake ...
+[32m[2018-09-20T10:22:06.640] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-pdfmake;】 + gm-pdfmake@0.3.14
+Start sync ["gm-pdfmake"].
+sync gm-pdfmake, PUT http://registry.npm.taobao.org/gm-pdfmake/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-pdfmake#logid=4557328
+[2018-09-20 10:22:04] user: anonymous, sync gm-pdfmake worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-09-20 10:22:04] ----------------- Syncing gm-pdfmake -------------------
+[2018-09-20 10:22:04] [c#0] [gm-pdfmake] package(https://r.cnpmjs.org/gm-pdfmake) status: 200, dist-tags: {"latest":"0.3.13"}, time.modified: 2018-08-14T02:47:23.000Z, unpublished: null, start...
+[2018-09-20 10:22:04]   [gm-pdfmake] found 0 missing star users
+[2018-09-20 10:22:04]   [gm-pdfmake] all versions are exists
+[2018-09-20 10:22:04]   [gm-pdfmake] no versions need to deleted
+[2018-09-20 10:22:04]   [gm-pdfmake] all 1 npm users exists
+[2018-09-20 10:22:04] [c#0] [gm-pdfmake] synced success, 0 versions: 
+[2018-09-20 10:22:04] ----------------- Synced gm-pdfmake success -------------------
+[2018-09-20 10:22:04] [done] Sync gm-pdfmake package finished, 1 success, 0 fail
+Success: [ gm-pdfmake ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-pdfmake"], failed: []
+[32m[2018-09-20T10:22:06.641] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-pdfmake 手动触发更新。
+[36m[2018-09-29T16:35:23.443] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-09-29T16:35:33.854] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v0.3.15
+[32m[2018-09-29T16:35:33.855] [INFO] default - [39mstart to publish gm-pdfmake ...
+[32m[2018-09-29T16:35:53.587] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-pdfmake;】 + gm-pdfmake@0.3.15
+Start sync ["gm-pdfmake"].
+sync gm-pdfmake, PUT http://registry.npm.taobao.org/gm-pdfmake/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-pdfmake#logid=4765876
+[2018-09-29 16:35:51] user: anonymous, sync gm-pdfmake worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-09-29 16:35:51] ----------------- Syncing gm-pdfmake -------------------
+[2018-09-29 16:35:51] [c#0] [gm-pdfmake] package(https://r.cnpmjs.org/gm-pdfmake) status: 200, dist-tags: {"latest":"0.3.14"}, time.modified: 2018-09-20T02:22:10.000Z, unpublished: null, start...
+[2018-09-29 16:35:51]   [gm-pdfmake] found 0 missing star users
+[2018-09-29 16:35:51]   [gm-pdfmake] all versions are exists
+[2018-09-29 16:35:51]   [gm-pdfmake] no versions need to deleted
+[2018-09-29 16:35:51]   [gm-pdfmake] all 1 npm users exists
+[2018-09-29 16:35:51] [c#0] [gm-pdfmake] synced success, 0 versions: 
+[2018-09-29 16:35:51] ----------------- Synced gm-pdfmake success -------------------
+[2018-09-29 16:35:51] [done] Sync gm-pdfmake package finished, 1 success, 0 fail
+Success: [ gm-pdfmake ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-pdfmake"], failed: []
+[32m[2018-09-29T16:35:53.590] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-pdfmake 手动触发更新。
+[36m[2018-09-29T16:55:05.901] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-09-29T16:55:18.276] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v0.3.16
+[32m[2018-09-29T16:55:18.277] [INFO] default - [39mstart to publish gm-pdfmake ...
+[32m[2018-09-29T16:55:37.313] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-pdfmake;】 + gm-pdfmake@0.3.16
+Start sync ["gm-pdfmake"].
+sync gm-pdfmake, PUT http://registry.npm.taobao.org/gm-pdfmake/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-pdfmake#logid=4766301
+[2018-09-29 16:55:34] user: anonymous, sync gm-pdfmake worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-09-29 16:55:34] ----------------- Syncing gm-pdfmake -------------------
+[2018-09-29 16:55:35] [c#0] [gm-pdfmake] package(https://r.cnpmjs.org/gm-pdfmake) status: 200, dist-tags: {"latest":"0.3.15"}, time.modified: 2018-09-29T08:36:00.000Z, unpublished: null, start...
+[2018-09-29 16:55:35]   [gm-pdfmake] found 0 missing star users
+[2018-09-29 16:55:35]   [gm-pdfmake] all versions are exists
+[2018-09-29 16:55:35]   [gm-pdfmake] no versions need to deleted
+[2018-09-29 16:55:35]   [gm-pdfmake] all 1 npm users exists
+[2018-09-29 16:55:35] [c#0] [gm-pdfmake] synced success, 0 versions: 
+[2018-09-29 16:55:35] ----------------- Synced gm-pdfmake success -------------------
+[2018-09-29 16:55:35] [done] Sync gm-pdfmake package finished, 1 success, 0 fail
+Success: [ gm-pdfmake ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-pdfmake"], failed: []
+[32m[2018-09-29T16:55:37.314] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-pdfmake 手动触发更新。
+[36m[2018-10-06T14:59:23.166] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-10-06T14:59:36.005] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v0.3.17
+[32m[2018-10-06T14:59:36.005] [INFO] default - [39mstart to publish gm-pdfmake ...
+[32m[2018-10-06T15:00:04.848] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-pdfmake;】 + gm-pdfmake@0.3.17
+Start sync ["gm-pdfmake"].
+sync gm-pdfmake, PUT http://registry.npm.taobao.org/gm-pdfmake/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-pdfmake#logid=4889315
+[2018-10-06 15:00:02] user: anonymous, sync gm-pdfmake worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-10-06 15:00:02] ----------------- Syncing gm-pdfmake -------------------
+[2018-10-06 15:00:03] [c#0] [gm-pdfmake] package(https://r.cnpmjs.org/gm-pdfmake) status: 200, dist-tags: {"latest":"0.3.16"}, time.modified: 2018-09-29T08:55:46.000Z, unpublished: null, start...
+[2018-10-06 15:00:03]   [gm-pdfmake] found 0 missing star users
+[2018-10-06 15:00:03]   [gm-pdfmake] all versions are exists
+[2018-10-06 15:00:03]   [gm-pdfmake] no versions need to deleted
+[2018-10-06 15:00:03]   [gm-pdfmake] all 1 npm users exists
+[2018-10-06 15:00:03] [c#0] [gm-pdfmake] synced success, 0 versions: 
+[2018-10-06 15:00:03] ----------------- Synced gm-pdfmake success -------------------
+[2018-10-06 15:00:03] [done] Sync gm-pdfmake package finished, 1 success, 0 fail
+Success: [ gm-pdfmake ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-pdfmake"], failed: []
+[32m[2018-10-06T15:00:04.848] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-pdfmake 手动触发更新。
+[36m[2018-11-22T23:28:04.350] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-11-22T23:28:22.079] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v0.3.18
+[32m[2018-11-22T23:28:22.079] [INFO] default - [39mstart to publish gm-pdfmake ...
+[32m[2018-11-22T23:29:54.488] [INFO] log2file - [39m【npm publish --registry="https://registry.npmjs.org"; cnpm sync gm-pdfmake;】 + gm-pdfmake@0.3.18
+Start sync ["gm-pdfmake"].
+sync gm-pdfmake, PUT http://registry.npm.taobao.org/gm-pdfmake/sync?publish=false&nodeps=false
+logurl: https://npm.taobao.org/sync/gm-pdfmake#logid=5982851
+[2018-11-22 23:30:01] user: anonymous, sync gm-pdfmake worker start, 1 concurrency, nodeps: false, publish: false, syncUpstreamFirst: false
+[2018-11-22 23:30:01] ----------------- Syncing gm-pdfmake -------------------
+[2018-11-22 23:30:02] [c#0] [gm-pdfmake] package(https://r.cnpmjs.org/gm-pdfmake) status: 200, dist-tags: {"latest":"0.3.17"}, time.modified: 2018-10-06T07:00:18.000Z, unpublished: null, start...
+[2018-11-22 23:30:02]   [gm-pdfmake] found 0 missing star users
+[2018-11-22 23:30:02]   [gm-pdfmake] all versions are exists
+[2018-11-22 23:30:02]   [gm-pdfmake] no versions need to deleted
+[2018-11-22 23:30:02]   [gm-pdfmake] all 1 npm users exists
+[2018-11-22 23:30:02] [c#0] [gm-pdfmake] synced success, 0 versions: 
+[2018-11-22 23:30:02] ----------------- Synced gm-pdfmake success -------------------
+[2018-11-22 23:30:02] [done] Sync gm-pdfmake package finished, 1 success, 0 fail
+Success: [ gm-pdfmake ]
+Fail: [  ]
+Sync all packages done, successed: ["gm-pdfmake"], failed: []
+[32m[2018-11-22T23:29:54.488] [INFO] default - [39m如果 cnpm 同步失败（最近经常同步失败），请访问 https://npm.taobao.org/sync/gm-pdfmake 手动触发更新。
+[36m[2018-12-12T17:11:10.371] [DEBUG] log2file - [39mgmfe argv: { _: [ 'npm_publish' ],
+  version: false,
+  a: 'patch',
+  add: 'patch',
+  '$0': 'gmfe',
+  u: undefined,
+  t: undefined,
+  b: undefined,
+  w: undefined,
+  d: undefined,
+  m: undefined }
+[32m[2018-12-12T17:11:19.197] [INFO] log2file - [39m【rm -rf package-lock.json; npm version patch; git push origin master:master;】 v0.3.20
+[32m[2018-12-12T17:11:19.197] [INFO] default - [39mstart to publish gm-pdfmake ...
