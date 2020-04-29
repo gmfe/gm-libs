@@ -1,9 +1,9 @@
 ;(function () {
   var script = document.scripts[document.scripts.length - 1]
-  var project = script && script.dataset.project
+  var platform = script && script.dataset.platform
 
-  if (!project) {
-    console.warn('can not find project in <script data-project=')
+  if (!platform) {
+    console.warn('can not find platform in <script data-platform=')
     return
   }
 
@@ -51,27 +51,13 @@
     }
   }
 
-  function reportQy(data) {
-    // 附加额外信息
-    data._project = project
-    data.metaData = getMetaData()
-
-    var url = 'https://trace.guanmai.cn/api/webhook/qy'
-    doFetch(url, {
-      msgtype: 'text',
-      text: {
-        content: JSON.stringify(data),
-      },
-    })
-  }
-
   // 统计到 more
   function reportTrace(data) {
     // 附加额外信息
-    data._project = project
+    data._platform = platform
     data.metaData = getMetaData()
 
-    doFetch('https://trace.guanmai.cn/api/logs/more/' + project, data)
+    doFetch('https://trace.guanmai.cn/api/logs/more/' + platform, data)
   }
 
   window.addEventListener(
