@@ -9,7 +9,7 @@
     "gm-pinyin": "4.0.2",
     "prettier": "^2.0.5",
     "react-beautiful-dnd": "10.1.1",
-    "xlsx": "0.11.17"
+    "xlsx": "0.17.0"
   },
   "devDependencies": {
     "fs": "^0.0.1-security",
